@@ -1,1 +1,1 @@
-we are using linear regression algorithm
+we are using linear regression algorithm for prediction
