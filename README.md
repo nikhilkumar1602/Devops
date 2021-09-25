@@ -1,11 +1,1 @@
---- Nodejs App From Docker To Kubernetes Cluster ---
 
-- Make A Separate Directory And Initialize The Node Application
-- Installing Express and Make index.js File And Write
-- Dockerizing The Node Server and Create And Run The Container 
-- Upload The Image To Docker Registry Docker Hub
-- Start The Kubernetes Cluster
-- Define YAML File To Create A Deployment In Kubernetes Cluster
-- Create Deployment In Kubernetes Cluster
--  Expose The Deployment To The Internet
-- Using MetalLB In Your Minikube Environment
